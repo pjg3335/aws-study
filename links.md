@@ -1,3 +1,4 @@
-[doc](https://docs.aws.amazon.com/ko_kr/index.html)
-[JavaScript sdk](https://docs.aws.amazon.com/ko_kr/sdk-for-javascript/index.html)
-[JavaScript class](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/)
+- [doc](https://docs.aws.amazon.com/ko_kr/index.html)
+- [JavaScript sdk](https://docs.aws.amazon.com/ko_kr/sdk-for-javascript/index.html)
+- [JavaScript class](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/)
+- [region](https://docs.aws.amazon.com/ko_kr/general/latest/gr/rande.html)
