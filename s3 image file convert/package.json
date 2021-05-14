@@ -1,0 +1,20 @@
+{
+  "name": "s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-cli": "0.0.2",
+    "aws-sdk": "^2.868.0",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "sharp": "^0.28.1",
+    "tiny-async-pool": "^1.2.0"
+  }
+}
